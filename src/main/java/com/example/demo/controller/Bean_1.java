@@ -7,6 +7,8 @@ import javax.validation.constraints.Size;
 
 public class Bean_1 {
 	
+	//This is simple pojo class 
+	
 	// Adding local comment here
 	// //Here is my comment
 	/*
