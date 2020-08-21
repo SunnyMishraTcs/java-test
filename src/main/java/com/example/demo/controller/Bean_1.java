@@ -7,6 +7,8 @@ import javax.validation.constraints.Size;
 
 public class Bean_1 {
 	
+	//This is simple pojo class 
+	
 	/*
 	 * @Past(message = "Date should be in past") private Date DOB;
 	 */
