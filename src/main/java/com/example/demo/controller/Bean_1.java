@@ -7,6 +7,8 @@ import javax.validation.constraints.Size;
 
 public class Bean_1 {
 	
+	// Adding local comment here
+	// //Here is my comment
 	/*
 	 * @Past(message = "Date should be in past") private Date DOB;
 	 */
